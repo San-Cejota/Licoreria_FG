@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AguaAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AguardienteAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlimentosAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Caja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Champaña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnergizantesAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EspumosoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NacionalesAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RonesAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TequilasAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trabajadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuAguardientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuAlimentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuBlanco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuChampañas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuEnergizantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuEspumosos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuNacionales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuRones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuTequilas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usuVodka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VinoBlancoAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vodkaAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
